@@ -14,8 +14,8 @@ Walmart needs to understand the relationship between discount strategies and cus
 * Analytics Engine: DAX (Data Analysis Expressions)
 
 ## Key Findings
-* There is a very weak overall correlation between discount and ratings (*r* = 0.05).
-* However, viewing product correlations by category reveals stronger correlations for Beauty (*r* = 0.31) and Food (*r* = 0.16) items.
+* There is a very weak overall correlation between discount and ratings ($r = 0.05$).
+* However, viewing product correlations by category reveals stronger correlations for Beauty ($r = 0.31$) and Food ($r = 0.16$) items.
 * The highest rated brand is *Amay's*.
 * The *home* category of items is significantly better rated than the other categories, especially *clothing* and *beauty*.
 ![Project Screenshot](images/RWalmartDashboard.png)
