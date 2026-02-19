@@ -36,3 +36,8 @@ Walmart needs to understand the relationship between discount strategies and cus
 
 ## Business Applications
 If I were to present my findings to Walmart, I would suggest that they employ different discounting strategies depending on the category of the item. Products in the *food* and especially the *beauty* category responded much more positively to discounting strategies than other categories. Other categories, such as *home*, actually exhibited a small negative correlation ($r = -0.10$). I would recommend avoiding promotional spending on these categories, as customers seem to be more suspicious of price rollbacks for certain items. Additionally, I confirmed that there is a significantly higher average rating for the *home* category, which suggests that Walmart does not need to focus on increasing ratings in this particular category. 
+
+## How to Run
+1. Clone the repo: `git clone https://github.com/C0bb13/.github.io.git`
+2. Install dependencies: `pip install pandas numpy seaborn matplotlib scipy tabulate statsmodels`
+3. Open `WalmartProject.pbix` to view the dashboard or the Jupyter Notebook for the statistical deep-dive.
